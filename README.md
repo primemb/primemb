@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I am an experienced Full-Stack JavaScript Developer with over 7 years of expertise in designing and developing diverse web applications. My passion lies in utilizing frameworks such as React, Vue, Next.js, Nuxt 3, and Nest.js to deliver customized solutions that cater to the specific requirements of each project. Additionally, I have extensive experience in mobile application development using Flutter.
+Welcome to my GitHub profile! I am an experienced Full-Stack JavaScript Developer with over 8 years of expertise in designing and developing diverse web applications. My passion lies in utilizing frameworks such as React, Vue, Next.js, Nuxt 3, and Nest.js to deliver customized solutions that cater to the specific requirements of each project. Additionally, I have extensive experience in mobile application development using Flutter.
 
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
 [![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=flat-square)](https://vuejs.org/)
